@@ -25,7 +25,7 @@
 </div>
 
 <h2> Hello, I'm Myles Johnson! <img src="https://www.vhv.rs/dpng/f/562-5627664_boondocks-png.png" width="30"></h2>
-<img align='right' src="https://i.imgur.com/dflt4Jx.gif" width="300">
+<img align='right' src="./img/Mr_saitou.gif" width="400">
 <p><img src="https://www.pngfind.com/pngs/b/193-1931857_bullet-bill-png.png" width="15"> Current Firmware & Hardware
         developer
         at <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/IBM_logo.svg/2560px-IBM_logo.svg.png"
@@ -100,7 +100,7 @@
 </div>
 <br />
 
-<h2>Words of Wisdom <img src="https://media.tenor.com/7rBJEWkH0f8AAAAM/smart-be-wise.gif" width="40"></h2>
+<h2><img src="https://media.tenor.com/7rBJEWkH0f8AAAAM/smart-be-wise.gif" width="40"> Words of Wisdom</h2>
 
 <img align='left' src="https://github-readme-twitter.gazf.vercel.app/api?id=mylesthemonster&show_reply=off"
         style="width: 48%" />
@@ -108,9 +108,8 @@
         style="width: 45%" />
 <img src="https://readme-jokes.vercel.app/api?hideBorder&theme=dracula" alt="Jokes Card" style="width: 100%" />
 </p>
-<h2>Github Stats <img
-                src="https://media1.giphy.com/media/lT9Y1nrHdZWX9QoSH0/200w.gif?cid=6c09b9525us6snb19fzcwqkl60iyt35y1bhg72pqdr9ryk0j&rid=200w.gif&ct=g"
-                width="60"></h2>
+<h2><img src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif"
+                width="40"> Github Stats</h2>
 <p>
         <img src="https://github-readme-stats.vercel.app/api?username=mylesthemonster&show_icons=true&count_private=true&hide_border=true&theme=dracula"
                 align="left" style="width: 52%" />
@@ -122,7 +121,5 @@
 </p>
 <br />
 
-<h2>Profile counter <img
-                src="https://www.pngkit.com/png/detail/64-649609_sesame-street-clipart-count-dracula-vampire-from-sesame.png"
-                width="40"></h2>
+<h2> <img src="https://thumbs.gfycat.com/AmusingGlamorousClingfish-size_restricted.gif" width="40"> Profile counter</h2>
 <p align="center"><img src="https://profile-counter.glitch.me/mylesthemonster/count.svg" style="width: 50%" /></p>
