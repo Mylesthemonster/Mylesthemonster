@@ -98,28 +98,3 @@
                         src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker"
                         height="50" /></a>
 </div>
-<br />
-<!-- 
-<h2><img src="https://media.tenor.com/7rBJEWkH0f8AAAAM/smart-be-wise.gif" width="40"> Words of Wisdom</h2>
-
-<img align='center' src="https://quotes-github-readme.vercel.app/api?&theme=dracula" alt="Readme Quote"
-        style="width: 100%" />
-<img src="https://readme-jokes.vercel.app/api?hideBorder&theme=dracula" alt="Jokes Card" style="width: 100%" />
-
-</p>
--->
-<h2><img src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif"
-                width="40"> Github Stats</h2> 
-<p>
-        <img src="https://github-readme-stats.vercel.app/api?username=mylesthemonster&show_icons=true&count_private=true&hide_border=true&theme=dracula"
-                align="left" style="width: 52%" />
-<p align="right"><img
-                src="https://github-readme-stats.vercel.app/api/top-langs/?username=mylesthemonster&hide_border=true&layout=compact&theme=dracula"
-                align="center" style="width: 46%" /></p>
-<img src="https://streak-stats.demolab.com?user=mylesthemonster&theme=dracula&hide_border=true&border_radius=5&date_format=j%2Fn%5B%2FY%5D&mode=weekly"
-        align="right" style="width: 100%" />
-</p>
-<br />
-
-<h2> <img src="https://thumbs.gfycat.com/AmusingGlamorousClingfish-size_restricted.gif" width="40"> Profile counter</h2>
-<p align="center"><img src="https://profile-counter.glitch.me/mylesthemonster/count.svg" style="width: 50%" /></p>
